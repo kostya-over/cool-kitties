@@ -1,2 +1,1 @@
-My first GitHub repository.
-<h1>Heading h1</h1>
+<h3>My first GitHub repository.</h3>
